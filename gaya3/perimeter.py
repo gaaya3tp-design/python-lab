@@ -1,0 +1,7 @@
+l=float(input("Enter the length:"))
+print(l)
+b=float(input("Enter the breadth:"))
+print(b)
+print("Perimeter of rectangle:")
+p=2*(l+b)
+print(p)

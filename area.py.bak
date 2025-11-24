@@ -1,0 +1,6 @@
+l=float(input("length"))
+print("Enter length of the rectangle")
+b=float(input("breadth"))
+print("Enter breadth of the rectangle")
+a=l*b
+print(a)

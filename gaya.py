@@ -1,0 +1,5 @@
+print("Gayathri")
+print("This is my name")
+print("mca")
+a=input("Enter the Name:")
+print(a)
